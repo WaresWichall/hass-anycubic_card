@@ -33,3 +33,10 @@
 5. Add a manual card to your lovelace dashboard using the configuration instructions below.
 6. Reload Browser
 
+
+## Where's the source?
+
+[Source code here](https://github.com/WaresWichall/hass-anycubic_cloud/tree/master/custom_components/anycubic_cloud/frontend_panel)
+
+This card is compiled from the same repository as the main Anycubic Cloud integration due to shared code with the panel.
+
