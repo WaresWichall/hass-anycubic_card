@@ -12,6 +12,8 @@
 - Power button for a switch entity
 - Light button for a switch entity
 - Adjustable 3D printer graphic scale
+- ACE Slot configuration via popup
+- Print settings configuration via popup
 
 
 ## Installation
