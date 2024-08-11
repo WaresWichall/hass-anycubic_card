@@ -35,6 +35,14 @@
 5. Add a manual card to your lovelace dashboard using the configuration instructions below.
 6. Reload Browser
 
+## Gallery
+---
+
+<img width="400" alt="" src="https://raw.githubusercontent.com/WaresWichall/hass-anycubic_card/master/screenshots/card-main.png">
+<img width="400" alt="" src="https://raw.githubusercontent.com/WaresWichall/hass-anycubic_card/master/screenshots/card-printsettings.png">
+<img width="400" alt="" src="https://raw.githubusercontent.com/WaresWichall/hass-anycubic_card/master/screenshots/card-dryingoptions.png">
+<img width="400" alt="" src="https://raw.githubusercontent.com/WaresWichall/hass-anycubic_card/master/screenshots/card-slotoptions.png">
+<img width="400" alt="" src="https://raw.githubusercontent.com/WaresWichall/hass-anycubic_card/master/screenshots/card-materialoptions.png">
 
 ## Where's the source?
 
