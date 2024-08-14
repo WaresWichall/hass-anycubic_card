@@ -50,3 +50,7 @@
 
 This card is compiled from the same repository as the main Anycubic Cloud integration due to shared code with the panel.
 
+## Issues
+
+[Create issues and feature requests here](https://github.com/WaresWichall/hass-anycubic_cloud/issues)
+
