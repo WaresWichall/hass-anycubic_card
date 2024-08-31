@@ -21,7 +21,7 @@
 ### Method 1: HACS
 1. Open _HACS_ and navigate to _Frontend_ Section
 2. Open the Overflow Menu (⋮) in the top right corner and click on _Custom repositories_
-3. Paste `https://github.com/WaresWichall/hass-anycubic_card` into the input field and select `Lovelace` from the dropdown
+3. Paste `https://github.com/WaresWichall/hass-anycubic_card` into the input field and select `Dashboard` (or `Lovelace`) from the dropdown
 4. Click the Install Button on the highlighted Card titled _Anycubic_
 
 ### Method 2: Manual
@@ -30,7 +30,7 @@
 2. Either:
   * Move to the ```www``` folder of your Home Assistant instance
   * Or copy the file's contents via the file editor.
-3. In the Resources section of Lovelace (```Configuration -> Lovelace Dashboards -> Resources```), add ```/local/anycubic-card.js``` as a ```JavaScript Module```.
+3. In the Resources section of Dashboards (```Settings -> Dashboards -> ... Menu -> Resources```), add ```/local/anycubic-card.js``` as a ```JavaScript Module```.
 4. Save
 5. Add a manual card to your lovelace dashboard using the configuration instructions below.
 6. Reload Browser
